@@ -1,5 +1,3 @@
-/* Este archivo se encargará de leer las lecturas desde Arduino */
-
 //Importar modulos
 const serialPort = require('serialport'); //Esta libreria me permite acceder a los puertos serie. Podemos conectarnos con Arduino
 const express = require('express'); //Este modulo es para crear servidores
